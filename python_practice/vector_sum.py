@@ -7,8 +7,7 @@ def vector_sum(nums):
     @return the sum of elements nums
     """
     # Add code here
-
-    return 0.0
+    return sum(nums)
 
 
 if __name__ == "__main__":
