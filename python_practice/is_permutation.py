@@ -11,3 +11,5 @@ def isPermutation(str1, str2):
 
     return True
 
+if __name__ == "__main__":
+    print("Hello")
